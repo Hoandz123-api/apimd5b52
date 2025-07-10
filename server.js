@@ -36,7 +36,7 @@ function connectB52WebSocket() {
       "",
       {
         agentId: "1",
-        accessToken: "13-4bbdf84c08614c7e447383d51c7624db",
+        accessToken: "13-6b81b40db25c7559b3cdb53681125d58",
         reconnect: false,
       },
     ];
